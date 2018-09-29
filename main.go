@@ -34,7 +34,6 @@ func main() {
 	log.Debug(testData.Name)
 	log.Debug("1111 log")
 
-
 	fmt.Println("start to run server. ")
 	leaf.Run(
 		game.Module,
