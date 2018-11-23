@@ -10,9 +10,9 @@
             "request": "launch",
             "mode": "auto",
             "remotePath": "",
-            "port": 2345,
+            "port": 1234,
             "host": "127.0.0.1",
-            "program": "${fileDirname}",
+            "program": "D:\\TestUnity\\GoProjects\\src\\server\\main.go",
             "env": {},
             "args": [],
             "showLog": true

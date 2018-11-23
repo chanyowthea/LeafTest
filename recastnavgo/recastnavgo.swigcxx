@@ -1,0 +1,11 @@
+%module RecastNav
+
+
+%{
+#include "NavgationService.h"
+#include "NavgationDataCache.h"
+%}
+
+
+%include "NavgationService.h"
+%include "NavgationDataCache.h"
